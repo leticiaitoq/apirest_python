@@ -20,3 +20,17 @@ pip freeze
 
 pip freeze > requeriments.txt
 
+# postar no git
+
+git status
+
+git add .
+
+git status
+
+git commit -m ""
+
+git remote -v
+
+git push origin main
+
