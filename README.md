@@ -14,5 +14,9 @@ source ./myvenv/Scripts/activate
 
 pip install flask
 
-pip freeze 
+pip install -r requermiments.txt
+
+pip freeze
+
+pip freeze > requeriments.txt
 
