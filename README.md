@@ -32,5 +32,27 @@ git commit -m ""
 
 git remote -v
 
-git push origin main
+git push
 
+
+git pull
+git checkout -b fat/aula-27
+git status
+git add .
+git commit -m "feat/aula-27-ok"
+
+git push 
+
+git pish --strean origin feat
+
+git checkout main 
+
+git merge feat/aula-27
+
+git push
+
+
+user.name
+user.email
+
+pip install mysql-connector-python
